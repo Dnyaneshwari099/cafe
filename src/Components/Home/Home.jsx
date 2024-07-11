@@ -14,15 +14,15 @@ const Home = () => {
                     data-aos-once="true"
                     className='text-5xl sm:text-6xl lg:text-7xl font-bold'
                 >
-                    Welcome to the richest {" "}
+                    Pune's best {" "}
                     <span 
                       data-aos="zoom-out"
                       data-aos-delay="300"
                       className='text-primary font-cursive'
                     >
-                      Coffee
+                      Coffee and Tea
                     </span> {" "}
-                    in the city
+                    now!!
                 </h1>
                 <div data-aos="fade-up" data-aos-delay="400">
                     <button className='bg-gradient-to-r from-primary to-secondary border-2 border-primary rounded-full px-4 py-2 text-white hover:scale-105 duration-200'>Coffee with Code</button>
