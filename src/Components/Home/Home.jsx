@@ -1,5 +1,6 @@
 import React from 'react';
 import HeroImg from "../../assets/coffee2.png";
+import HeroImg1 from '../../assets/samosa.jpg'
 
 const Home = () => {
   return (
@@ -33,7 +34,7 @@ const Home = () => {
                className='min-h-[450px] flex justify-center items-center order-1 sm:order-2 relative'
             >
                 <img 
-                    src={HeroImg} 
+                    src={HeroImg1} 
                     alt="" 
                     className='w-[300px] sm:w-[450px] sm:scale-110 m-auto spin'
                 />
