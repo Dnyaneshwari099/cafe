@@ -48,7 +48,7 @@ const Home = () => {
                    data-aos="fade-right"
                    className='bg-gradient-to-r from-primary to-secondary absolute bottom-10 right-10 p-3 rounded-xl'
                 >
-                    <h1>Drink Tea</h1>
+                    <h1>Refresh Your Spirit</h1>
                 </div>
             </div>
         </div>
