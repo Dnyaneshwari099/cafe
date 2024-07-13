@@ -33,7 +33,7 @@ const Navbar = () => {
                     className='font-bold text-2xl sm:text-3xl flex justify-center items-center gap-2 tracking-wider font-cursive'
                 >
                     <img src={Logo} alt="Logo" className='w-14'/>
-                    Cafie Cafe
+                    TEA.COM
                 </a>
             </div>
            
@@ -53,7 +53,7 @@ const Navbar = () => {
                         </li>
                     ))}
                 </ul>
-                <button className='bg-primary/70 px-4 py-2 rounded-full hover:scale-105 duration-200 flex items-center gap-3'>
+                <button className='bg-primary/70 px-4 py-2 rounded-full hover:scale-105 duration-200 flex items-center gap-3' link='https://www.google.com/search?gs_ssp=eJzj4tTP1TdIN6ssMzZg9OItLk_MzVQoTsxNLCrJAABp6QiH&q=swami+samarth&oq=swami&gs_lcrp=EgZjaHJvbWUqCggDEC4YsQMYgAQyDAgAEEUYORixAxiABDIMCAEQIxgnGIAEGIoFMgYIAhAjGCcyCggDEC4YsQMYgAQyDAgEEAAYFBiHAhiABDIKCAUQABixAxiABDINCAYQLhiDARixAxiABDINCAcQLhivARjHARiABDIKCAgQLhixAxiABDIHCAkQABiABNIBCjE2MjUzajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8'>
                     Order
                     <FaCoffee className='text-xl cursor-pointer' />
                 </button>
