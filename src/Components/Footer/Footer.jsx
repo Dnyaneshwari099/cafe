@@ -117,7 +117,7 @@ const Footer = () => {
                                 <a href='https://www.linkedin.com/'>
                                     <FaLinkedin className='text-3xl inline-block hover:scale-105 duration-200'/>
                                 </a>
-                                <a href='https://www.instagram.com/'>
+                                <a href='https://www.instagram.com/tea.com_official?igsh=NTc4MTIwNjQ2YQ=='>
                                     <FaInstagram className='text-3xl inline-block hover:scale-105 duration-200'/>
                                 </a>
                                 
