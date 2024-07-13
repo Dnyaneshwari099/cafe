@@ -23,7 +23,7 @@ const Home = () => {
                     >
                       Coffee and Tea
                     </span> {" "}
-                    now!!
+                    here !!
                 </h1>
                 <div data-aos="fade-up" data-aos-delay="400">
                     <button className='bg-gradient-to-r from-primary to-secondary border-2 border-primary rounded-full px-4 py-2 text-white hover:scale-105 duration-200'>Coffee with Code</button>
