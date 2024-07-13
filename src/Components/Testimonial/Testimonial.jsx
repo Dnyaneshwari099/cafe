@@ -4,37 +4,37 @@ import Slider from  "react-slick";
 const TestimonialData = [
     {
         id: 1,
-        name: "Stan Smith",
+        name: "Dhanashree Bedse",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus vitae sit amet dolor sit amet consectetur consectetur adipisicing possimus saepe natus, Doloribus vitae sit amet consectetur repudiandae consectetur!",
         img: "https://picsum.photos/101/101",
     },
     {
         id: 2,
-        name: "Sabir ali",
+        name: "Tanvi Ingale",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus vitae sit amet dolor sit amet consectetur consectetur adipisicing possimus saepe natus, Doloribus vitae sit amet consectetur repudiandae consectetur!",
         img: "https://picsum.photos/102/102",
     },
     {
         id: 3,
-        name: "Dilshed",
+        name: "Shreya Shelar",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus vitae sit amet dolor sit amet consectetur consectetur adipisicing possimus saepe natus, Doloribus vitae sit amet consectetur repudiandae consectetur!",
         img: "https://picsum.photos/104/104",
     },
     {
         id: 4,
-        name: "Olivia ali",
+        name: "Pratik Kale",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus vitae sit amet dolor sit amet consectetur consectetur adipisicing possimus saepe natus, Doloribus vitae sit amet consectetur repudiandae consectetur!",
         img: "https://picsum.photos/102/102",
     },
     {
         id: 5,
-        name: "Peters Patel",
+        name: "Atharva Deshmukh",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus vitae sit amet dolor sit amet consectetur consectetur adipisicing possimus saepe natus, Doloribus vitae sit amet consectetur repudiandae consectetur!",
         img: "https://picsum.photos/101/101",
     },
     {
         id: 6,
-        name: "Olivia ali",
+        name: "Sanket Khaladkar",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus vitae sit amet dolor sit amet consectetur consectetur adipisicing possimus saepe natus, Doloribus vitae sit amet consectetur repudiandae consectetur!",
         img: "https://picsum.photos/102/102",
     },
