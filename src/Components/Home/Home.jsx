@@ -42,7 +42,7 @@ const Home = () => {
                     data-aos="fade-left"
                     className='bg-gradient-to-r from-primary to-secondary absolute top-10 left-10 p-3 rounded-xl'
                 >
-                    <h1>Coffee Lovers</h1>
+                    <h1>Sip, Smile, Repeat</h1>
                 </div>
                 <div 
                    data-aos="fade-right"
