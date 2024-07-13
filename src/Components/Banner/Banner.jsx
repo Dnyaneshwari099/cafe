@@ -34,19 +34,20 @@ const Banner = () => {
                     <div className='flex flex-col justify-center gap-6 sm:pt-0'>
                         <h1 
                             data-aos="fade-up"
-                            className='text-3xl sm:text-4xl font-bold font-cursive'>Premium Blen Coffee
+                            className='text-3xl sm:text-4xl font-bold font-cursive'>Premium Blend Coffee and Tea
                         </h1>
                         <p 
                             dat-aos="fade-up"
                             className='text-sm text-gray-500 tracking-wider leading-5'
                         >
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem quasi tempora a vero distinctio? Quibusdam odio laborum temporibus eius adipisci animi illum quia corrupti nesciunt molestiae similique, molestias fugit at?
+                            Savor freshly baked pastries and artisanal snacks, perfect for pairing with your coffee.Our menu includes a range of delicious options, from croissants to cookies.
+                            Relax in our cozy and inviting atmosphere, designed for comfort and conversation.
                         </p>
                         <div className='grid grid-cols-2 gap-6 '>
                             <div className='space-y-5'>
                                 <div data-aos="fade-up" className='flex items-center gap-3'>
                                     <GrSecure className='text-2xl h-12 w-12 shadow-sm p-3 rounded-full bg-red-100'/>
-                                    <span>Premium Coffee</span>
+                                    <span>Premium Tea</span>
                                 </div>
                                 <div
                                     data-aos="fade-up"
@@ -75,8 +76,7 @@ const Banner = () => {
                                 </h1>
                                 <p className='text-gray-code text-sm'>
                                     {" "}
-                                    Much like writing code, brewing the prefect cup of tea requires patience, 
-                                    precision, and a dash of passion to create a comforting blend of flavours.
+                                    Unwind in our serene environment, perfect for enjoying a peaceful cup of tea.From lattes to iced coffees, create the perfect beverage to suit your taste.
                                 </p>
                             </div>
                         </div>

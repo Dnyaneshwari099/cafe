@@ -43,20 +43,20 @@ const Footer = () => {
                         className='font-semibold tracking-widest text-2xl sm:text-3xl font-cursive'
                     >
                         {" "}
-                        Cafie cafe
+                        TEA.COM
                     </a>
                     <p className='pt-4'>
                         {" "}
-                        Crafted Coffee, Cozy Vibes,<br></br> 
+                        Our Enchanted Tea and Crafted Coffee <br></br> 
                         Unforgettable Moments - Your prefect <br></br>
-                        Espresso Escape
+                        
                     </p>
                     <a 
                         href='#' 
                         target='_blank'
                         className='inline-block bg-[#3d2517] py-2 px-4 mt-5 text-sm rounded-full'
                     >
-                        Visit our YouTube Channel
+                        <a href='https://www.youtube.com/'>Visit our YouTube Channel</a>
                     </a>
                 </div>
 
@@ -104,17 +104,17 @@ const Footer = () => {
                     <div className='py-8 px-4 col-span-2 sm:col-auto'>
                         <h1 className='text-xl font-semibold sm:text-left mb-3'>Address</h1>
                         <div>
-                            <p className='mb-3'>The Liquid Hub |   TEA.COM | VimanNagar,Pune
+                            <p className='mb-3'>The Liquid Hub,   TEA.COM  VimanNagar,Pune
                               
                             </p>
                             <p>+91 7798135776</p>
 
                             {/*Social Link*/}
                             <div className='space-x-3 mt-6'>
-                                <a href='#'>
+                                <a href='https://www.facebook.com/'>
                                     <FaFacebook className='text-3xl inline-block hover:scale-105 duration-200'/>
                                 </a>
-                                <a href='#'>
+                                <a href='https://www.linkedin.com/'>
                                     <FaLinkedin className='text-3xl inline-block hover:scale-105 duration-200'/>
                                 </a>
                                 <a href='https://www.instagram.com/'>

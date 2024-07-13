@@ -54,7 +54,7 @@ const Navbar = () => {
                     ))}
                 </ul>
                 <button className='bg-primary/70 px-4 py-2 rounded-full hover:scale-105 duration-200 flex items-center gap-3'>
-                   <a href="https://www.whatsapp.com/"> Order</a>
+                   <a href="https://www.zomato.com/pune/tea-post-viman-nagar"> Order</a>
                     <FaCoffee className='text-xl cursor-pointer' />
                 </button>
             </div>

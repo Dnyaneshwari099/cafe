@@ -6,9 +6,9 @@ const ServicesData = [
     {
         id: 1,
         img: Img3,
-        name: "Espresso",
+        name: "Brew",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur vero perferendis dicta.",
+            "Enjoy the comforting, rich aroma that fills the air.",
         aosDelay: "100",
     },
     {
@@ -16,7 +16,7 @@ const ServicesData = [
         img: Img2,
         name: "Americano",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur vero perferendis dicta.",
+            "Perfect black or with a splash of milk",
         aosDelay: "300",
     },
     {
@@ -24,7 +24,7 @@ const ServicesData = [
         img: Img3,
         name: "Cappuccino",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur vero perferendis dicta.",
+            "Crafted from the finest Arabica beans, roasted to perfection.",
         aosDelay: "600",
      },
 ];
